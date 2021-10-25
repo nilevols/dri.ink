@@ -20,4 +20,5 @@
   * [MySQL redo log与binlog](3.MySQL/2.mysql-redo-log-binlog)
   * [MySQL备份与恢复](3.MySQL/3.mysql-backup-and-recovery)
   * [MySQL事务](3.MySQL/4.mysql-transaction)
+  * [MySQL索引](3.MySQL/5.mysql-indexes)
 
