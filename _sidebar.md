@@ -9,6 +9,8 @@
     * [Java线程](1.Java/2.Java-Core/2.java-concurrency-thread)
     * [Java线程池](1.Java/2.Java-Core/3.java-thread-pool)
     * [Java锁](1.Java/2.Java-Core/4.java-lock)
+  * Java 8 特性
+    * [Java 8特性之Optional](1.Java/3.Java8/1.Optional)
 * Redis
   * [Redis基础知识](2.Redis/1.redis-basic)
   * [Redis线程模型](2.Redis/2.redis-thread-model)
