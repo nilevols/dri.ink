@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dri.ink Blog</title>
+  <icon>https://www.gravatar.com/avatar/6374f76d8d5297af73a1bc82581b8dae</icon>
+  
+  <link href="https://dri.ink/atom.xml" rel="self"/>
+  
+  <link href="https://dri.ink/"/>
+  <updated>2023-01-06T07:09:51.181Z</updated>
+  <id>https://dri.ink/</id>
+  
+  <author>
+    <name>Yang Shen</name>
+    <email>shenyangno.1@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="https://dri.ink/2023/01/06/my-first-post/"/>
+    <id>https://dri.ink/2023/01/06/my-first-post/</id>
+    <published>2023-01-06T03:35:11.000Z</published>
+    <updated>2023-01-06T07:09:51.181Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;搭建博客这个事已经拖延了好几年了，期间尝试过手撸服务器模式的，手撸Github Pages这种0成本托管式的，最终都不了了之了。前几天闲逛到&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://dri.ink/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+  </entry>
+  
+</feed>
