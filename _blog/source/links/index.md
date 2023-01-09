@@ -7,7 +7,8 @@ date: 2023-01-06 15:02:35
 
 ### Resourses
 
-1. [/knowledge-base](/knowledge-base) - 我的知识库
+1. [我的知识库](/knowledge-base) - 我的知识库，东西比较少
+2. [宝藏知识库](https://learn.lianglianglee.com) - 一个宝藏知识库，技术文章摘抄，Go通关、DDD、JVM核心技术、MySQL实战、Redis实战等
 
 ### Tools
 
