@@ -1,0 +1,76 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "NFT Metadata Standard",
+    "description": "An metadata standard for NFT publication",
+    "type": "object",
+    "properties": {
+        "name": {
+            "description": "The name of the NFT",
+            "type": "string"
+        },
+        "description": {
+            "description": "The description of the NFT",
+            "type": "string"
+        },
+        "resource": {
+            "description": "The NFT resource link and resource type",
+            "type": "object",
+            "properties": {
+                "url": {
+                    "type": "string"
+                },
+                "type": {
+                    "description": "The resource type, for example a MIME type",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "url"
+            ]
+        },
+        "preview": {
+            "description": "A lower-scale version of the resource.",
+            "type": "object",
+            "properties": {
+                "url": {
+                    "type": "string"
+                },
+                "type": {
+                    "description": "The preview type, for example a MIME type",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "url"
+            ]
+        },
+        "attributes": {
+            "description": "The NFT attributes or traits.",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "description": "The property name",
+                        "type": "string"
+                    },
+                    "value": {
+                        "description": "The property value",
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "name",
+                    "value"
+                ]
+            },
+            "minItems": 0,
+            "uniqueItems": false
+        }
+    },
+    "required": [
+        "name",
+        "description",
+        "resource"
+    ]
+}
