@@ -15,3 +15,7 @@ date: 2023-01-06 15:02:35
 ### Tools
 
 1. [Excalidraw](https://excalidraw.com/) - 手绘风格在线画板
+
+### Fun
+
+1. [飞机纸模型](https://creativepark.canon/en/contents/CNT-0011259/index.html) - 佳能的 Creative Park，下载与打印模型文件，剪裁、粘贴拼接。
